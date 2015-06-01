@@ -1,5 +1,5 @@
 # rG3-gamemode
-Descrierea pe limba romana poate fi gasita aici: http://forum.tutoriale-pe.net/forum-rgaming-v3
+Descrierea pe limba romana poate fi gasita aici: http://forum.tutoriale-pe.net/topic-ro-romania-gaming-v3-sa-mp-gamemode-rg3-rpg
 
 The description of this gamemode could be found here: http://forum.tutoriale-pe.net/forum-rgaming-v3
 
