@@ -1,4 +1,6 @@
 # rG3-gamemode
+Full changelog can be found here: http://tutoriale-pe.net/topic/64-changelog/
+
 [RO]Descrierea pe limba romana poate fi gasita aici: http://tutoriale-pe.net/topic/19-roromania-gaming-v3-sa-mp-gamemode-rg3-rpg/
 
 [EN]The description of this gamemode could be found here: http://tutoriale-pe.net/topic/20-enromania-gaming-v3-sa-mp-gamemode-rg3-rpg/
