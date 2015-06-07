@@ -15,7 +15,7 @@
  */
 
 #include <a_samp>
-#include <a_mysqll>
+#include <a_mysql>
 #include <playerprogress>
 #include <YSI\y_commands>
 #include <YSI\y_master>
@@ -4360,7 +4360,7 @@ public OnPlayerEnterCheckpoint(playerid)
 public OnGameModeExit()
 {
     mysql_tquery(SQL, "UPDATE `users` SET `online` = '0'", "", "");
-	mysql_close(SQL,true); // Closing the MySQL connection
+	mysql_close(SQL); // Closing the MySQL connection
 	return 1;
 }
 
